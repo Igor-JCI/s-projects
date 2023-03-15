@@ -1,3 +1,7 @@
 .App {
+    background-color: rgba(48,42,55,0.75);
+}
 
+.text {
+    color: #bbffbb;
 }
