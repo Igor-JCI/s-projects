@@ -1,5 +1,9 @@
-.someClass {
-
+.greeting {
+    display: flex;
+    align-items: flex-start;
+}
+.textError {
+    color: red;
 }
 
 .error {
